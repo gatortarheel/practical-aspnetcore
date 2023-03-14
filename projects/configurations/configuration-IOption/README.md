@@ -1,5 +1,8 @@
 # Options Walkthrough 
 
+Note - I need to update the project with these changes.
+:/
+
 > https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-6.0
 
 ## Step 1
